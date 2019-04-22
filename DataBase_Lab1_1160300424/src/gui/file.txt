@@ -1,0 +1,8 @@
+aircompany	company_id	 company_name	company_addr
+assurance	assurance_id	assurance_type	assurance_client_id
+client	client_id	client_name	client_age	client_gender	
+flight	flight_id	flight_company_name	flight_depature	flight_destination	flight_depature	flight_destination
+order	order_id	order_client_id	order_price
+orderDetail	detail_order_id	order_num	detail_ticket_id	detail_price
+plane	plane_id	plane_company	plane_flight	plane_type
+ticket	ticket_client_id	ticket_flight_id	ticket_id	seat_num
